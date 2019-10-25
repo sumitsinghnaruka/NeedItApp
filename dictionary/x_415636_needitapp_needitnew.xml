@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedItNew" max_length="40" name="x_415636_needitapp_needitnew" sizeclass="1" type="collection">
+        <element label="Field1" max_length="40" name="field1" type="integer"/>
+        <element label="Field 2" max_length="40" name="field_2" type="integer"/>
+        <element label="New Time" max_length="40" name="u_glide_time_3" type="glide_time"/>
+        <element label="New Integer" max_length="40" name="u_integer_2" type="integer"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" default="0" label="New Price" max_length="20" name="u_price_1" type="price"/>
+    </element>
+</database>
