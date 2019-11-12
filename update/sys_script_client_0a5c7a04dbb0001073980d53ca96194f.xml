@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>field_2</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>NewScript</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+    alert("You have changed the Field 2 value form " + oldValue + " to " + newValue + ".");
+    alert(g_form.getValue('field_2'));
+    alert("g_user.firstName = " + g_user.firstName + ", \n g_user.lastName = " + g_user.lastName + ", \n g_user.userName = " + g_user.userName + ", \n g_user.userID = " + g_user.userID);
+	alert(g_user.hasRole('client_script_admin'));
+	alert(g_user.hasRoleExactly('client_script_admin'));
+    //Type appropriate comment here, and begin script below
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 07:34:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a5c7a04dbb0001073980d53ca96194f</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>NewScript</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedItApp" source="x_415636_needitapp">74e8dc9bdb24001073980d53ca9619a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedItApp">74e8dc9bdb24001073980d53ca9619a1</sys_scope>
+        <sys_update_name>sys_script_client_0a5c7a04dbb0001073980d53ca96194f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 08:07:27</sys_updated_on>
+        <table>x_415636_needitapp_needitnew</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

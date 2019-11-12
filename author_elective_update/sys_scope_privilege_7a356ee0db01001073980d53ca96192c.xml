@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>read</operation>
+        <source_scope display_value="NeedItApp">74e8dc9bdb24001073980d53ca9619a1</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 05:20:59</sys_created_on>
+        <sys_id>7a356ee0db01001073980d53ca96192c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>incident</sys_name>
+        <sys_package display_value="NeedItApp" source="x_415636_needitapp">74e8dc9bdb24001073980d53ca9619a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedItApp">74e8dc9bdb24001073980d53ca9619a1</sys_scope>
+        <sys_update_name>sys_scope_privilege_7a356ee0db01001073980d53ca96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 05:21:37</sys_updated_on>
+        <target_name>incident</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedItApp">74e8dc9bdb24001073980d53ca9619a1</application>
+        <file_path/>
+        <instance_id>92bee207db53d30489535d00cf9619ae</instance_id>
+        <instance_name>dev65795</instance_name>
+        <name>sys_scope_privilege_7a356ee0db01001073980d53ca96192c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="NeedItApp">74e8dc9bdb24001073980d53ca9619a1</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-08 05:20:59</sys_created_on><sys_id>7a356ee0db01001073980d53ca96192c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>incident</sys_name><sys_package display_value="NeedItApp" source="x_415636_needitapp">74e8dc9bdb24001073980d53ca9619a1</sys_package><sys_policy/><sys_scope display_value="NeedItApp">74e8dc9bdb24001073980d53ca9619a1</sys_scope><sys_update_name>sys_scope_privilege_7a356ee0db01001073980d53ca96192c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-08 05:21:37</sys_updated_on><target_name>incident</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>-275336493</payload_hash>
+        <record_name>incident</record_name>
+        <reverted_from/>
+        <source>0dfaee40db70001073980d53ca96193a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 05:21:37</sys_created_on>
+        <sys_id>78956ae0db01001073980d53ca961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e4975f4dc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 05:21:37</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>f0956ae00e010010c881652f428c9a85</update_guid>
+        <update_guid_history>f0956ae00e010010c881652f428c9a85:-275336493,7f656ae072010010c6b99cc243c24280:830195725</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 06:02:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>72ef75548b5a4e40b7e8aef3286d5e04</sys_id>
+        <sys_metadata>7a356ee0db01001073980d53ca96192c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incident</sys_name>
+        <sys_package display_value="NeedItApp" source="x_415636_needitapp">74e8dc9bdb24001073980d53ca9619a1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedItApp">74e8dc9bdb24001073980d53ca9619a1</sys_scope>
+        <sys_scope_delete display_value="">2a367a42156242059afcff75a704ae19</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_7a356ee0db01001073980d53ca96192c</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_7a356ee0db01001073980d53ca96192c">78956ae0db01001073980d53ca961985</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 06:02:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

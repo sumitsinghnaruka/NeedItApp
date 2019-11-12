@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-23 05:45:53</sys_created_on>
-        <sys_id>21019c23dba0401073980d53ca9619c6</sys_id>
+        <sys_id>5387abf1db81001073980d53ca961909</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Field1</sys_name>
         <sys_package display_value="NeedItApp" source="x_415636_needitapp">74e8dc9bdb24001073980d53ca9619a1</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="NeedItApp">74e8dc9bdb24001073980d53ca9619a1</sys_scope>
         <sys_update_name>sys_dictionary_x_415636_needitapp_needitnew_field1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-23 05:45:53</sys_updated_on>
+        <sys_updated_on>2019-11-12 07:22:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
