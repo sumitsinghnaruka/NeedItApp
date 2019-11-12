@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>TEMPLATE5</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-30 06:09:29</sys_created_on>
+        <sys_id>e01a9cfddbb0401073980d53ca9619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE5</sys_name>
+        <sys_package display_value="NeedItApp" source="x_415636_needitapp">74e8dc9bdb24001073980d53ca9619a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedItApp">74e8dc9bdb24001073980d53ca9619a1</sys_scope>
+        <sys_update_name>sys_template_e01a9cfddbb0401073980d53ca9619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-30 06:09:29</sys_updated_on>
+        <table>x_415636_needitapp_needitnew</table>
+        <template>field_2=120^field1=200^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

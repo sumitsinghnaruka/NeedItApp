@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="cat1" max_length="40" name="x_415636_needitapp_cat1" type="collection">
+        <element choice="1" display="true" label="Cat Name" max_length="253" name="cat_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Cat1" value="1"/>
+                <element inactive_on_update="false" label="Cat2" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

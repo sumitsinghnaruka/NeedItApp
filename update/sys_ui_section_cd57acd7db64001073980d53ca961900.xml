@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>da5b2c6bdbe0401073980d53ca96194c</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>f4b17439db34401073980d53ca961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>5e5b2c6bdbe0401073980d53ca96194c</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>7cb17439db34401073980d53ca961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>cmdb_ci</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>de5b2c6bdbe0401073980d53ca96194c</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>fcb17439db34401073980d53ca961997</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,111 +46,139 @@
             <element>active</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>525b2c6bdbe0401073980d53ca96194d</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>70b17439db34401073980d53ca961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_2</element>
+            <element>u_choice_1</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>d25b2c6bdbe0401073980d53ca96194d</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>f0b17439db34401073980d53ca961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_1</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>74b17439db34401073980d53ca961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>565b2c6bdbe0401073980d53ca96194d</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>f4b17439db34401073980d53ca961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>d65b2c6bdbe0401073980d53ca96194d</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>78b17439db34401073980d53ca961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>5a5b2c6bdbe0401073980d53ca96194d</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>f8b17439db34401073980d53ca961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>parent</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>da5b2c6bdbe0401073980d53ca96194d</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>7cb17439db34401073980d53ca961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>due_date</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>5e5b2c6bdbe0401073980d53ca96194d</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>fcb17439db34401073980d53ca961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_glide_time_3</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-23 07:37:58</sys_created_on>
-            <sys_id>de5b2c6bdbe0401073980d53ca96194d</sys_id>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>70b17439db34401073980d53ca961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-23 07:37:58</sys_updated_on>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-30 07:52:03</sys_created_on>
+            <sys_id>f0b17439db34401073980d53ca961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415636_needitapp_needitnew" sys_domain="global" view="Default view">cd57acd7db64001073980d53ca961900</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-30 07:52:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
